@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mod9_hw",
+    name="booklover",
     version="0.1",
     description= "creating a list of books",
     url= "https://github.com/aswain4/mod9_hw",
